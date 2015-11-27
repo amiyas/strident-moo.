@@ -1,2 +1,4 @@
-# strident-moo.
+strident-moo.
+==============
 Test git
+README pour formation
